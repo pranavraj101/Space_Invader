@@ -1,0 +1,21 @@
+.navbar-brand{
+    font-family: 'Ranchers', cursive;
+    font-size: 2em;
+    font-weight: bold;
+    padding-left: 5%;
+    color: #fff;
+}
+
+
+
+.box
+{
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    margin-bottom: 30px;
+}
+
+.courses{
+    background-color: #D62D20;
+}
